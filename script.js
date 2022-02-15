@@ -2,7 +2,7 @@ $(function(){
   const dataCards = [
     {
       id: 1,
-      image: 'https://firebasestorage.googleapis.com/v0/b/fotos-3cba1.appspot.com/o/producto1.png?alt=media&token=915bea59-e6c2-4474-bc72-abc1c47ef1c7',
+      image: './img/product1.png',
       nombre: 'Tarjeta de video Gigabyte GTX 1650 D6 OC 4GB GDDR6',
       descripcionCorta: 'Graphics Processing GeForce® GTX 1650 Core Clock',
       descripcionLarga: 'Alimentado por la arquitectura GeForce GTX 1650 NVIDIA Turing y GeForce Experience Integrado con 4 GB GDDR6 128 bit interfaz de memoria WINDFORCE 2X Sistema de enfriamiento con ventiladores giratorios alternativos de 80 mm ventiladores de hoja únicos Core Clock: 1710 MHz',
@@ -13,7 +13,7 @@ $(function(){
     },
     {
       id: 2,
-      image: 'https://firebasestorage.googleapis.com/v0/b/fotos-3cba1.appspot.com/o/producto2.png?alt=media&token=0d966e78-66be-43bd-a21b-98007831b9f6',
+      image: './img/product2.png',
       nombre: 'Teclado mecanico para gaming Hyperex Alloy origins RGB',
       descripcionCorta: 'HyperX Alloy Origins mecánico Tenkeyless para Gaming RGB',
       descripcionLarga: 'Es un teclado compacto y robusto que cuenta con interruptores mecánicos diseñados para brindarle a los gamers la mejor combinación de estilo, rendimiento y confiabilidad. Estos interruptores mecánicos tienen LEDs expuestos para lograr una iluminación impresionante con una fuerza de accionamiento y una distancia de trayectoria equilibrada para obtener un alto nivel de respuesta y exactitud. Alloy Origins está construido con un cuerpo de aluminio sólido que lo mantiene rígido y estable cuando la acción lo requiera, y te permitirá elegir entre tres niveles diferentes de inclinación. Su diseño elegante y compacto deja más espacio para el movimiento del mouse y también cuenta con un cable USB tipo C extraíble para una mejor portabilidad.',
@@ -23,7 +23,7 @@ $(function(){
     },
     {
       id: 3,
-      image: 'https://firebasestorage.googleapis.com/v0/b/fotos-3cba1.appspot.com/o/producto3.png?alt=media&token=453593c9-9630-4de0-8ba4-a3a780a1cc6a',
+      image: './img/product3.png',
       nombre: 'Headset para gaming Hyperx Cloud Stringer S 7.1 CH con Mic USB',
       descripcionCorta: 'Conexión inalámbrica de 2,4Ghz y almohadillas resistentes',
       descripcionLarga: 'Los audífonos HyperX Cloud Stinger™ son audífonos con licencia oficial PS4 y son ideales para gamers que buscan confort, calidad de sonido superior y una mayor comodidad. Son livianos y cuentan con memory foam original de HyperX, lo que permite brindar un nivel de confort legendario durante sesiones maratónicas de juego. Sus orejeras giratorias de 90 grados pueden descansar cómodamente alrededor de tu cuello durante los descansos.',
@@ -34,7 +34,7 @@ $(function(){
     },
     {
       id: 4,
-      image: 'https://firebasestorage.googleapis.com/v0/b/fotos-3cba1.appspot.com/o/producto4.png?alt=media&token=6c0ae77e-e48a-4b49-babc-0fc1023aa66a',
+      image: './img/product4.png',
       nombre: 'Tarjeta madre Gigabyte B550M-DS3H Ryzen 3000 series Matx',
       descripcionCorta: 'Soporta AMD 3rd Gen Ryzen™ y 3rd Gen Ryzen™ con Radeon™ GPU',
       descripcionLarga: 'Las placas base de la serie GIGABYTE UD utilizan un diseño MOSFET PWM + Low RDS(on) digital puro de 5 + 3 fases para admitir las CPU AMD Ryzen ™ de tercera generación al ofrecer una precisión increíble en la entrega de energía a los componentes más sensibles a la energía y a la energía de la placa base.Además de ofrecer un rendimiento mejorado del sistema y la máxima escalabilidad del hardware.',
